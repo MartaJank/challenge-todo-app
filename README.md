@@ -1,6 +1,6 @@
 # TODO
 
-This is a simple platform to get record of the tasks you have to do and organize yourself! :ballot_box_with_check:
+This is a simple and responsive platform to get record of the tasks you have to do and organize yourself! :ballot_box_with_check:
 
 
 
@@ -12,9 +12,12 @@ Simple!
 - Click the name of the task if it's done to cross it.
 - Click on details to see the description of the task you previously provided and also get access to edit or delete the task. 
 
-
-
-
-
 DONE! :smile:
+
+
+
+## Backlogs
+
+- Better CSS
+- Let the user reorganize the tasks
 
